@@ -13,8 +13,7 @@ Not applicable
 Run the rake command to exercise minitest.
 
 ## Link to passing test:
-https://www.dropbox.com/s/rjc7t7m858i7my4/Link%20to%20Screenshot%20from%20Week2%20assignment.png
-
+https://www.dropbox.com/s/5144a1d0z0k35rb/Week3%20Minitest%20screenshot%202014-01-26%2016%3A45%3A56.png
 
 ## Contributing
 
